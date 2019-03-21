@@ -1,17 +1,30 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
+
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
-        echo 'Hello World' //how to print in PHP
-        ?>
-    </body>
+<head>
+    <title>Home Page</title>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+
+     
+    <h1>My Home Page</h1> 
+  <br>  
+  <a href="http://localhost:8000/CV.html">Visit My CV page</a> 
+  </br>
+  
+  <br>
+  <a href ="http://localhost:8000/tiltedpage_scroll_demo.html"> Visit My Interests Page</a>
+  </br>
+    
+  <br>
+  
+  
+  
+
+
+</body>
 </html>
